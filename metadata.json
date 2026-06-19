@@ -1,0 +1,6 @@
+{
+  "name": "PromptedDev Designs Portfolio",
+  "description": "An interactive, draggable portfolio and high-end project gallery for PromptedDev Designs, styled with an architectural grid canvas, smooth draggable interactions, and elegant full-screen project showcase layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
